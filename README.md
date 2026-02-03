@@ -1,4 +1,4 @@
-# 👋 Full Stack Python Developer | Ethical Hacker | AI/ML Engineer
+# 👋 Full Stack Python Developer | AI/ML Engineer | Ethical Hacker
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohail_khan_7s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sohail-ali-7b8077244) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohailt7x@gmail.com) 
@@ -46,12 +46,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sohailk007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sohailk007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailk007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sohailk007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sohailk007&icon=0&color=0)](https://visitcount.itsvg.in)
