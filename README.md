@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Core Tech Stack
+## 💻 Tech Stack
 
 <table align="center">
 <tr>
@@ -94,11 +94,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=sohailk007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailk007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
 
 
 
