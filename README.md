@@ -100,22 +100,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sohailk007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sohailk007&icon=2&color=6" alt="Visit Count"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
